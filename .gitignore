@@ -1,0 +1,16 @@
+# FloatBar Build & Binary Artifacts
+*.exe
+*.obj
+*.pdb
+*.log
+out.txt
+error.log
+boot.log
+
+# Windows thumbnail & desktop caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# User settings cache
+settings.txt
